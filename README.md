@@ -2,11 +2,10 @@
 
 Jam Theme: *In The Shadows*
 
-Datapack Name: Darkness Disaster
+Datapack Name: Shade of the Darkness
 
-My Plan: The player goes to a deep dark city and the idea starts
-
-By now, I don't know what to do
+My Plan: The player summons an...
+Only play and scare!
 
 Tools used in this Datapack:
 - [Misode Page](https://misode.github.io)
