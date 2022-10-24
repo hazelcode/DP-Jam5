@@ -1,1 +1,0 @@
-tellraw @a {"text":"Darkness Disaster Datapack Loaded!","color":"yellow"}
