@@ -1,0 +1,2 @@
+execute store result score ShadeOfTheDarkness shd_drk.count if entity @e[type=husk,tag=shd_drk.entity]
+execute if score ShadeOfTheDarkness shd_drk.count matches 2.. run function shd_drk:game_events/kill_entity_detected
