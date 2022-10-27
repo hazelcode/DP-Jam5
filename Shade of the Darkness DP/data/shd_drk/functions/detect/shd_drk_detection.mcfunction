@@ -1,0 +1,3 @@
+function shd_drk:game_events/shd_drk_powers
+function shd_drk:game_events/tick_supers
+function shd_drk:game_events/shd_drk_supers
