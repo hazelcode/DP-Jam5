@@ -1,0 +1,1 @@
+execute at @s if block ~ ~-1 ~ gold_block if entity @p[distance=..1] if predicate shd_drk:valid_time run function shd_drk:detect/invocation_area

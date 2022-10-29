@@ -1,0 +1,1 @@
+execute at @s run summon vindicator ~4 ~ ~-2
