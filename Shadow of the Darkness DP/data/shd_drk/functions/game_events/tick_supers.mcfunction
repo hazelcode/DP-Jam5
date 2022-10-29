@@ -27,3 +27,6 @@ execute if score !Super6 shd_drk.tick matches 901.. run scoreboard players set !
 
 execute if entity @e[type=husk,tag=shd_drk.entity] run scoreboard players add !Super7 shd_drk.tick 1
 execute if score !Super7 shd_drk.tick matches 2401.. run scoreboard players set !Super7 shd_drk.tick 1
+
+execute if entity @e[type=husk,tag=shd_drk.entity] run scoreboard players add !Super8 shd_drk.tick 1
+execute if score !Super8 shd_drk.tick matches 401.. run scoreboard players set !Super8 shd_drk.tick 1

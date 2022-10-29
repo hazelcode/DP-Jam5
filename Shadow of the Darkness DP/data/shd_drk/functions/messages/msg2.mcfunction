@@ -1,0 +1,1 @@
+tellraw @a [{"text":"<"},{"selector":"@p"},{"text": "> "},{"translate": "shd_drk.textMsg2.1"},{"translate":"shd_drk.textMsg2.2","color": "red"},{"text": "!!!","color": "white"}]

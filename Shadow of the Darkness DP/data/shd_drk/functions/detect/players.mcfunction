@@ -1,0 +1,1 @@
+execute store result score !PlayerCount shd_drk.players if entity @a

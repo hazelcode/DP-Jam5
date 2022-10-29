@@ -1,1 +1,1 @@
-tellraw @p [{"text":"<"},{"selector":"@p"},{"text": "> "},{"translate":"shd_drk.textMsg1"}]
+tellraw @a [{"text":"<"},{"selector":"@p"},{"text": "> "},{"translate":"shd_drk.textMsg1","color": "red"}]

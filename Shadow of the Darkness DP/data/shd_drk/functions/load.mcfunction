@@ -1,5 +1,6 @@
 scoreboard objectives add shd_drk.count dummy
 scoreboard objectives add shd_drk.killed dummy
+scoreboard objectives add shd_drk.players dummy
 bossbar add shd_drk:bossbar {"translate":"shd_drk.bossfight","color": "red"}
 bossbar set shd_drk:bossbar max 800
 bossbar set shd_drk:bossbar style notched_20
