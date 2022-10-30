@@ -1,1 +1,1 @@
-execute at @s run summon witch ~2 ~ ~2
+execute at @s run summon witch ~2 ~ ~2 {CustomName: '{"text": "Shadow of the Darkness Slave"}'}

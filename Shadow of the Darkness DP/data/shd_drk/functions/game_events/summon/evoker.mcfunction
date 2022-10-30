@@ -1,1 +1,1 @@
-execute at @s run summon evoker ~3 ~ ~3
+execute at @s run summon evoker ~3 ~ ~3 {CustomName: '{"text": "Shadow of the Darkness Slave"}'}
