@@ -2,7 +2,7 @@
 
 Jam Theme: *In The Shadows*
 
-Datapack Name: Shade of the Darkness
+Datapack Name: Shadow of the Darkness
 
 The player summons an...
 
